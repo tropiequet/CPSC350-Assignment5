@@ -3,7 +3,7 @@ Taylor Ropiequet
 2349522
 ropiequet@chapman.edu
 CPSC 350-02
-Assignment 4
+Assignment 5
 
 This is my TreeNode template class.
 */
