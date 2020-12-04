@@ -1,0 +1,3 @@
+2349522|Bob Hope|Senior|History|3.000000|5894138
+3816516|John Smith|Freshman|Art|3.500000|7824682
+6894162|Sally Moore|Junior|Math|4.000000|7824682
